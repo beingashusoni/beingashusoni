@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Machine+Learning;Artificial+Intelligence;)
 
 
-<img align="right" alt="GIF" src="https://github.com/beingashusoni/beingashusoni/blob/main/LaeF-unscreen.gif" width="250" />
+<img align="right" alt="GIF" src="https://github.com/beingashusoni/beingashusoni/blob/main/LaeF-unscreen.gif" width="300" />
 
 
 
