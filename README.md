@@ -8,22 +8,19 @@
 <h3> 💻 About Me </h3>
 <hr/>
 
-
-- 🔭 &nbsp; I’m currently doing Open source Contributions.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 📫 How to reach me **iamashuarya786@gmail.com**
-- 🎓 &nbsp; Studying Information Technology.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 📫 &nbsp; How to reach me **iamashuarya786@gmail.com**
+- 🎓 &nbsp; Studying Information Technology. 
 
-<h2> :coffee: Let's Connect </h2>
+<h2> ☕ Let's Connect </h2>
 <hr/>
-<p>
+
 <a href="https://www.instagram.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/instagram-new.png" alt="Instagram"/></a>
 <a href="https://github.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/github.png" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/linkedin-circled.png" alt="LinkedIn"/></a>
 <a href="https://www.twitter.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/twitter-circled.png" alt="Twitter"/></a>
 <a href="https://stackoverflow.com/users/17387728/ashutosh-soni"><img src="https://img.icons8.com/color-glass/50/000000/stackoverflow.png" alt="Stackoverflow"/></a>	
-</p>
+
 
 
 
