@@ -1,21 +1,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px" height="25px">, I'm Ashutosh 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Machine+Learning;Artificial+Intelligence;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Front+End+Developer;Software+Tester;Machine+Learning;)
 
 
 <img align="right" alt="GIF" src="https://github.com/beingashusoni/beingashusoni/blob/main/LaeF-unscreen.gif" width="300" />
-
-
-
-### Let's Connect :coffee:
-<hr/>
-<p>
-<a href="https://www.instagram.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/instagram-new.png" alt="Instagram"/></a>
-<a href="https://github.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/linkedin-circled.png" alt="LinkedIn"/></a>
-<a href="https://www.twitter.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/twitter-circled.png" alt="Twitter"/></a>
-<a href="https://stackoverflow.com/users/17387728/ashutosh-soni"><img src="https://img.icons8.com/color-glass/50/000000/stackoverflow.png" alt="Stackoverflow"/></a>	
-</p>
-
 
 
 <h3> 💻 About Me </h3>
@@ -27,6 +14,19 @@
 - 📫 How to reach me **iamashuarya786@gmail.com**
 - 🎓 &nbsp; Studying Information Technology.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+
+# Let's Connect :coffee:
+<hr/>
+<p>
+<a href="https://www.instagram.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/instagram-new.png" alt="Instagram"/></a>
+<a href="https://github.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/linkedin-circled.png" alt="LinkedIn"/></a>
+<a href="https://www.twitter.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/twitter-circled.png" alt="Twitter"/></a>
+<a href="https://stackoverflow.com/users/17387728/ashutosh-soni"><img src="https://img.icons8.com/color-glass/50/000000/stackoverflow.png" alt="Stackoverflow"/></a>	
+</p>
+
+
+
 
 
 
