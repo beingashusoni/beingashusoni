@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools i Know</h3>
 <hr/>
 <p>
-<a href=""><img src="https://img.icons8.com/color/40/000000/html-5--v1.png" alt="HTML"/></a>
+<img src="https://img.icons8.com/color/40/000000/html-5--v1.png" alt="HTML"/>
 <a href="https://github.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/github.png" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/linkedin-circled.png" alt="LinkedIn"/></a>
 <a href="https://www.twitter.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/twitter-circled.png" alt="Twitter"/></a>
