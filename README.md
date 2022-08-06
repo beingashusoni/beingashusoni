@@ -14,13 +14,13 @@
 
 <h2> ☕ Let's Connect </h2>
 <hr/>
-
+<p>
 <a href="https://www.instagram.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/instagram-new.png" alt="Instagram"/></a>
 <a href="https://github.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/github.png" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/linkedin-circled.png" alt="LinkedIn"/></a>
 <a href="https://www.twitter.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/twitter-circled.png" alt="Twitter"/></a>
 <a href="https://stackoverflow.com/users/17387728/ashutosh-soni"><img src="https://img.icons8.com/color-glass/50/000000/stackoverflow.png" alt="Stackoverflow"/></a>	
-
+<p/>
 
 
 
