@@ -15,7 +15,7 @@
 - 🎓 &nbsp; Studying Information Technology.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-# Let's Connect :coffee:
+<h3> Let's Connect </h3>
 <hr/>
 <p>
 <a href="https://www.instagram.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/instagram-new.png" alt="Instagram"/></a>
