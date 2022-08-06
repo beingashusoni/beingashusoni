@@ -31,10 +31,16 @@
 <hr/>
 <p>
 <img src="https://img.icons8.com/color/40/000000/html-5--v1.png" alt="HTML"/>
-<a href="https://github.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/linkedin-circled.png" alt="LinkedIn"/></a>
-<a href="https://www.twitter.com/beingashusoni"><img src="https://img.icons8.com/color-glass/50/000000/twitter-circled.png" alt="Twitter"/></a>
-<a href="https://stackoverflow.com/users/17387728/ashutosh-soni"><img src="https://img.icons8.com/color-glass/50/000000/stackoverflow.png" alt="Stackoverflow"/></a>	
+<img src="https://img.icons8.com/color/40/000000/css3.png" alt="CSS"/>
+<img src="https://img.icons8.com/color/40/000000/javascript--v1.png" alt="Javascript"/>
+<img src="https://img.icons8.com/color/40/000000/bootstrap.png" alt="Bootstrap"/>
+<img src="https://img.icons8.com/color/40/000000/python--v1.png" alt="Python"/>
+<img src="https://img.icons8.com/color/40/000000/mysql-logo.png" alt="MySql"/>
+<img src="https://img.icons8.com/color/40/000000/github--v1.png" alt="Github"/>
+<img src="https://img.icons8.com/color/40/000000/git.png" alt="Git"/>	
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-hubspot-a-developer-and-marketer-of-software-products-logo-shadow-tal-revivo.png" alt="Hubspot"/>
+<img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/40/000000/external-hootsuite-is-a-social-media-management-platform-logo-tritone-tal-revivo.png" alt="Hootsuite"/>	
+<img src="ttps://img.icons8.com/color/40/000000/adobe-photoshop--v1.png" alt="Photoshop"/>	
 <p/>
 
 
