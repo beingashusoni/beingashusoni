@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://github.com/beingashusoni/beingashusoni/blob/main/LaeF-unscreen.gif" width="300" />
 
 
-<h3> 💻 About Me </h3>
+<h2> 💻 About Me </h2>
 <hr/>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -27,7 +27,7 @@
 
 
 
-<h3> 🖥️ Languages and Tools </h3>
+<h2> 🖥️ Languages and Tools </h2>
 <hr/>
 <p>
 <img src="https://img.icons8.com/color/40/000000/html-5--v1.png" alt="HTML"/>
