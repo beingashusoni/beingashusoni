@@ -27,7 +27,7 @@
 
 
 
-<h3 align="left">Languages and Tools i Know</h3>
+<h3> 🖥️ Languages and Tools </h3>
 <hr/>
 <p>
 <img src="https://img.icons8.com/color/40/000000/html-5--v1.png" alt="HTML"/>
