@@ -38,6 +38,7 @@
 <img src="https://img.icons8.com/color/40/000000/mysql-logo.png" alt="MySql"/>
 <img src="https://img.icons8.com/color/40/000000/github--v1.png" alt="Github"/>
 <img src="https://img.icons8.com/color/40/000000/git.png" alt="Git"/>	
+<img src="https://img.icons8.com/color/40/000000/slack-new.png" alt="Slack"/>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-hubspot-a-developer-and-marketer-of-software-products-logo-shadow-tal-revivo.png" alt="Hubspot"/>
 <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/40/000000/external-hootsuite-is-a-social-media-management-platform-logo-tritone-tal-revivo.png" alt="Hootsuite"/>	
 <img src="https://img.icons8.com/color/40/000000/adobe-photoshop--v1.png" alt="Photoshop"/>	
