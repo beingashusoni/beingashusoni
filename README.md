@@ -1,5 +1,5 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px" height="25px">, I'm Ashutosh 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Front+End+Developer;Software+Tester;UI+Designer;Full+Stack+Developer;)
+## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px" height="25px">, I'm Ashutosh 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Front+End+Developer;UI+Designer;Full+Stack+Developer;)
 
 
 <img align="right" alt="GIF" src="https://github.com/beingashusoni/beingashusoni/blob/main/LaeF-unscreen.gif" width="300" />
